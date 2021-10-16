@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Desbordante frontend](https://github.com/Mstrutov/Desbordante)
 
-- 🌱 I’m currently learning **React, JS/TS, Illustrator, Blender, Design fundamentals**
+- 🌱 I’m currently learning **React D3.js, JS/TS, Dataviz techniques**
 
 - 📫 How to reach me **kirill.stupakov.0@gmail.com**
 
