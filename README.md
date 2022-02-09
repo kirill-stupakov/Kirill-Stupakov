@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill Stupakov</h1>
 <h3 align="center">A beginner frontend developer from St. Petersburg</h3>
 
-- 🔭 I’m currently working on [Desbordante frontend](https://github.com/Mstrutov/Desbordante)
+- 🔭 I’m currently working on [Desbordante frontend](https://github.com/vs9h/Desbordante/tree/web-app)
 
 - 🌱 I’m currently learning **React, D3.js, JS/TS, Dataviz techniques**
 
