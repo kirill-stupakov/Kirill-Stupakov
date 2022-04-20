@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill Stupakov</h1>
-<h3 align="center">A beginner frontend developer from St. Petersburg</h3>
+<h3 align="center">A junior frontend developer from St. Petersburg</h3>
 
 - 🔭 I’m currently working on [Desbordante frontend](https://github.com/vs9h/Desbordante/tree/web-app)
 
