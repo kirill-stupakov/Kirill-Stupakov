@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill Stupakov</h1>
-<h3 align="center">A junior frontend developer from St. Petersburg</h3>
+<h3 align="center">Frontend developer from St. Petersburg</h3>
 
 - 🔭 I’m currently working on [Desbordante](https://github.com/vs9h/Desbordante/tree/web-app)
 
-- 🌱 I’m currently learning **React, D3.js, JS/TS, Dataviz techniques**
+- 🌱 I’m currently learning **Testing, Figma, Web design fundamentals**
 
 - 📫 How to reach me **kirill.stupakov.0@gmail.com**
 
