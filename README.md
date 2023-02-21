@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A frontend developer from St. Petersburg</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirill-stupakov" alt="kirill-stupakov" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirill-stupakov&theme=tokyonight&margin-w=15&margin-h=15" alt="kirill-stupakov" /></a> </p>
 
 - 🔭 I’m currently working on [Desbordante](https://github.com/vs9h/Desbordante)
 
